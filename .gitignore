@@ -45,3 +45,6 @@ Temporary Items
 # SolidWorks Temporary Files
 ~*
 *.bak
+
+# Autocad Temporary Files
+*.dwl
